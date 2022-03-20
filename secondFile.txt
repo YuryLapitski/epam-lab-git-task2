@@ -1,10 +1,10 @@
 This is my second file.
 It has 10 rows.
-row 3. Another changes 1.
+row 3. Some changes in this row. Another changes 1.
 row 4
 row 5
 row 6
 row 7
-row 8. Another changes 2.
+row 8. Some changes in this row. Another changes 2.
 row 9
 row 10
