@@ -6,5 +6,5 @@ row 5
 row 6
 row 7. Some changes in row 7 (Step 7).
 row 8
-row 9
-row 10
+row 9. Some changes in row 9 (Step 8).
+row 10. Some changes in row 10 (Step 8).
