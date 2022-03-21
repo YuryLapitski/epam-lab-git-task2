@@ -1,10 +1,10 @@
 This is my first file.
 It has 10 rows.
-row 3
+row 3. Changed in step 19.
 row 4. Some changes in row 4 (Step 7).
 row 5
 row 6
 row 7. Some changes in row 7 (Step 7).
-row 8
+row 8. Changed in step 19.
 row 9. Some changes in row 9 (Step 8).
 row 10. Some changes in row 10 (Step 8).
